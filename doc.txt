@@ -1,0 +1,12 @@
+cd Desktop/
+ls
+cd shorna/
+ls
+cd html/
+ls
+ 
+# git working commands
+git status
+
+
+
